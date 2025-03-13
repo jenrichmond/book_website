@@ -1,0 +1,7 @@
+# Puppies {.unnumbered}
+
+This is quarto book about puppies
+
+[Oodles](<https://vetslovepets.com.au/blogs/dog/oodle-breed-guide>) are very cute.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIrB_Gx-Le_m_62hVRJa97QAHygMuXCmaQLxupuJbcuRol1W-74-HvZRWFsZm37RwkcM&usqp=CAU)

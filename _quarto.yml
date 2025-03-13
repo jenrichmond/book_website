@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "book in a website?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: book/index.html
+        text: Book
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

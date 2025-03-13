@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "book/references.html",
+    "href": "book/references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "book/index.html",
+    "href": "book/index.html",
+    "title": "Puppies",
+    "section": "",
+    "text": "Puppies\nThis is quarto book about puppies\nOodles are very cute."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my book_website sandpit",
+    "section": "",
+    "text": "This is a Quarto website. I have been asking my boyfriend Claude about how to embed a Quarto book within a website. I think I have followed his instructions, including the book in its own folder, but when I render the site the nav bar Book only links to the first page of the book and doesn’t show the rest of the book.\nWhen I render files in the book folder separately, it works just fine.\nClaude says that the repo should be structured as so…\n\nThen the _quarto.yml for the site should look like this…\n\nAnd the _quarto.yml for the book should look like this…"
+  },
+  {
+    "objectID": "book/intro.html",
+    "href": "book/intro.html",
+    "title": "Big and small",
+    "section": "",
+    "text": "Big and small\nOodles are sometimes big\n\nAnd sometimes oodles are small"
+  },
+  {
+    "objectID": "book/summary.html",
+    "href": "book/summary.html",
+    "title": "Which is your favourite?",
+    "section": "",
+    "text": "Which is your favourite?"
+  }
+]
