@@ -1,4 +1,4 @@
-Hi Fonti!!
+
 
 I have created a little reprex to illustrate what I am trying to create with the Rladies Sydney website. 
 I would like one of the nav bar items to link to the new RYouWithme content, which I have created as a Quarto book. 
